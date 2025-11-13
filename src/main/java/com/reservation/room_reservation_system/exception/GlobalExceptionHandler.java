@@ -1,4 +1,4 @@
-package main.java.com.reservation.room_reservation_system.exception;
+package com.reservation.room_reservation_system.exception;
 
 import java.util.HashMap;
 import java.util.Map;

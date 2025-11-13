@@ -1,4 +1,4 @@
-package main.java.com.reservation.room_reservation_system.config;
+package com.reservation.room_reservation_system.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
